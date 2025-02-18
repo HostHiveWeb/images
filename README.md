@@ -1,2 +1,2 @@
-# images
-A repo to store publicly available image assets
+# Images
+A repository to store publicly available image assets
